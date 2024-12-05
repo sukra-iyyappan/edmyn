@@ -1,0 +1,12 @@
+[{
+  "relations": [
+    "delegrate_permission/common.handle_all_urls"
+  ],
+  "target": {
+
+    "namespace": "andriod_app",
+    "package_name": "com.edmyn.edmyn",
+    "sha256_cert_fingerprints": ["86:F5:0E:2A:CC:47:DA:BC:41:13:3A:A7:1F:5D:3D:55:38:27:1A:03:46:22:6E:39:EA:4E:6C:B7:77:B1:85:3D\n"]
+
+  }
+}]

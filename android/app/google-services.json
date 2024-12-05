@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1054140795203",
+    "project_id": "edmyn-dev",
+    "storage_bucket": "edmyn-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054140795203:android:f21d6ed1be203027d307f6",
+        "android_client_info": {
+          "package_name": "com.edmyn.edmyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054140795203-rveq28gkc7f96fo86nv7dl2l015ddvv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edmyn.edmyn",
+            "certificate_hash": "463bc0698bc6cd5ed1545f8fe45d24c1ce70f779"
+          }
+        },
+        {
+          "client_id": "1054140795203-04q1fel981as476tb7pjg1f8s486lcom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPvzPzxIjezjUx_X1JUoQTGSglAfIt-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054140795203-04q1fel981as476tb7pjg1f8s486lcom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054140795203-4cgci5t8dkhkcltibbfeqq9e8lkcg9gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edmyn.edmyn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
